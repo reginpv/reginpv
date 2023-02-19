@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @reginpv
 - 👀 I’m interested in Web Development, PWA
-- 🌱 I’m currently learning Next.js and PWA
+- 🌱 I’m currently learning Next.js 13 and PWA
 - 💞️ I’m looking to collaborate on PWA stuff
 - 📫 How to reach me reginpv@gmail.com
 
